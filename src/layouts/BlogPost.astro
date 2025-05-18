@@ -75,15 +75,15 @@ if (!images[heroImage])
                             <slot />
                         </div>
                     </div>
+                    <a
+                        rel="noopener noreferrer"
+                        href={tags ? tags[0] : ""}
+                        target="_blank"
+                        class="bg-pgreen px-5 py-3 border-1 border-black rounded-lg shadow-card hover:shadow-hover transition text-black"
+                    >
+                        Register Here !
+                    </a>
                 </div>
-                <a
-                    rel="noopener noreferrer"
-                    href={tags ? tags[0] : ""}
-                    target="_blank"
-                    class="bg-pgreen px-5 py-3 border-1 border-black rounded-lg shadow-card hover:shadow-hover transition text-black"
-                >
-                    Register Here !
-                </a>
             </article>
             <Footer />
         </main>
