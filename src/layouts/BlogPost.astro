@@ -7,7 +7,13 @@ import { Icon } from "astro-icon/components";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title = "", description, heroImage = "/hero.jpeg", icon } = Astro.props;
+const {
+    title = "",
+    description,
+    heroImage = "/hero.jpeg",
+    icon,
+    tags,
+} = Astro.props;
 const bgClasses = [
     "hover:shadow-ppinkHover",
     "hover:shadow-pgreenHover",
@@ -70,6 +76,14 @@ if (!images[heroImage])
                         </div>
                     </div>
                 </div>
+                <a
+                    rel="noopener noreferrer"
+                    href={tags ? tags[0] : ""}
+                    target="_blank"
+                    class="bg-pgreen px-5 py-3 border-1 border-black rounded-lg shadow-card hover:shadow-hover transition text-black"
+                >
+                    Register Here !
+                </a>
             </article>
             <Footer />
         </main>

@@ -4,6 +4,7 @@ description: ""
 icon: "3"
 pubDate: "May 04 2025"
 heroImage: "/src/assets/Connect.png"
+tags: ["https://allevents.in/mumbai/connect-and-communicate-tickets/80002349111495?ref=smdl"]
 ---
 
 This dynamic women's networking event combines professional development with meaningful connections. The core elements include:
