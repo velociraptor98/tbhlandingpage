@@ -2,7 +2,7 @@
 title: "Connect and Communicate Series"
 description: ""
 icon: "3"
-pubDate: "May 04 2025"
+pubDate: "May 24 2025"
 heroImage: "/src/assets/Connect.png"
 tags: ["https://allevents.in/mumbai/connect-and-communicate-tickets/80002349111495?ref=smdl"]
 ---
