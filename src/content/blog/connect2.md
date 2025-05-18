@@ -3,7 +3,7 @@ title: "Connect and Communicate Series"
 description: ""
 icon: "3"
 pubDate: "May 04 2025"
-heroImage: "/src/assets/connect.svg"
+heroImage: "/src/assets/Connect.png"
 ---
 
 This dynamic women's networking event combines professional development with meaningful connections. The core elements include:
