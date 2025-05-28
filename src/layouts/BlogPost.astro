@@ -75,7 +75,7 @@ if (!images[heroImage])
                             <slot />
                         </div>
                     </div>
-                    {tags?.length > 0 &&
+                    {tags && tags?.length > 0 &&
                         (<a
                         rel="noopener noreferrer"
                         href={tags?.length ? tags[0] : ""}
