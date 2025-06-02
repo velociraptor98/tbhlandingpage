@@ -4,7 +4,6 @@ description: ""
 icon: "2"
 pubDate: "June 1 2025"
 heroImage: "/src/assets/run.png"
-tags: ["https://allevents.in/mumbai/run-in-the-rain-tickets/80001241711288?ref=smdl"]
 ---
 
 Join us for our first ever run which we are hoping will be in rain! Fingers crossed!<br><br>
@@ -13,4 +12,6 @@ We want to break this notion of bad weather or good weather and enjoy life as -i
 Venue: Jogger's Park, Bandra, Mumbai<br>
 Date : 1st June '25<br>
 Time : 7:30 AM <br>
-Fees : Free
+Fees : Free<br>
+
+This event is now closed !!
