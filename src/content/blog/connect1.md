@@ -1,5 +1,5 @@
 ---
-title: "Connect and Communicate Series"
+title: "Connect and Communicate Series - 1"
 description: ""
 icon: "1"
 pubDate: "April 26 2025"
