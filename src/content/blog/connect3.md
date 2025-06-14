@@ -4,7 +4,6 @@ description: ""
 icon: "3"
 pubDate: "June 08 2025"
 heroImage: "/src/assets/Connect.png"
-tags: ["https://allevents.in/bangalore/connect-and-communicate-unconventional-routes-to-success-tickets/80001499949135?ref=smdl"]
 ---
 <h1>Connect and Communicate : Unconventional Routes to Success</h1>
 <h3>About the Connect and Communicate Series</h3>
@@ -34,3 +33,4 @@ Date : 8th June'25<br>
 Time : 12:15pm to 2:30pm<br>
 Fees : Free <br>
 
+This event is now closed !!
