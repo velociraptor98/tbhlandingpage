@@ -1,5 +1,5 @@
 ---
-title: "Yoga and communication"
+title: "Yoga and Network"
 description: ""
 icon: "2"
 pubDate: "June 21 2025"
@@ -24,6 +24,6 @@ Please note that the yoga mats are provided.<br>
 
 Venue: GLU STUDIOS,<br> 3rd Floor, Office 301, Links Building Corner of 14th Road, Khar Pali Rd, Khar West,<br> Maharashtra 400052, Mumbai, India<br>
 Date : 21st June'25<br>
-Time : 111:45 am to 02:00 pm (IST)<br>
+Time : 11:45 am to 02:00 pm (IST)<br>
 Fees : Free <br>
 
