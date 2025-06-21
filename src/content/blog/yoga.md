@@ -4,7 +4,6 @@ description: ""
 icon: "2"
 pubDate: "June 21 2025"
 heroImage: "/src/assets/yoga.jpg"
-tags: ["https://allevents.in/mumbai/mindful-connections-wellness-meets-networking-for-women-tickets/80004719982712"]
 ---
 <h1>Mindful Connections: Wellness Meets Networking for women</h1>
 
@@ -27,3 +26,4 @@ Date : 21st June'25<br>
 Time : 11:45 am to 02:00 pm (IST)<br>
 Fees : Free <br>
 
+This event is now closed !!
